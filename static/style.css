@@ -1,0 +1,25 @@
+body{
+    background-color: tomato;
+    overflow: hidden;
+}
+
+form{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    gap: 20px;
+}
+
+input{
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
